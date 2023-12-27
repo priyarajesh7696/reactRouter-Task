@@ -1,0 +1,13 @@
+nav{
+    margin-top: 300px !important;
+    text-shadow: 30px;
+    background-color: aqua !important;
+    
+}
+span{
+    cursor: pointer;
+    text-rendering: initial;
+    padding-top: 20px;
+    color: blueviolet;
+    
+}
