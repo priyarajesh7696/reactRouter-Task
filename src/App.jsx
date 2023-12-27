@@ -133,7 +133,7 @@ function App() {
     <Route path='/cybersecurity' element={<CyberSecurity data={cardItem}/>}/>
     <Route path='/datascience' element={<DataScience data={cardItem}/>}/>
     <Route path='/career' element={<Career data={cardItem}/>}/>
-    <Route path='*' element={<Navigate to='/Card'/>}/>
+    <Route path='*' element={<Navigate to='/all'/>}/>
   </Routes>
   </BrowserRouter>
   </>
